@@ -151,9 +151,9 @@ class LinearElasticityLFEMFastSolver():
 # n = int(sys.argv[1])
 # p = int(sys.argv[2])
 # scale = float(sys.argv[3])
-
 n=10
 p=2
+
 
 pde = BoxDomain2DData()
 
