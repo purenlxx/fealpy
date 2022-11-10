@@ -487,10 +487,12 @@ $$
 结合$(4)$,就有混合变分形式为: 
 
 $$
+\begin{aligned}
 \begin{cases}
 \text{Find }(\boldsymbol{\sigma},\boldsymbol{u})\in H(\text{div},\Omega,\mathbb{S})\times(L^2(\Omega))^d, \text{ such that}\\
 (\mathcal{A}(\boldsymbol{\sigma}),\boldsymbol{\tau})_{\Omega}+(\text{div}~\boldsymbol{\tau},\boldsymbol{u}) = (\boldsymbol{\tau}\cdot\boldsymbol{n},\boldsymbol{u})_{\partial\Omega},&\text{for all } \boldsymbol{\tau}\in H(\text{div},\Omega,\mathbb{S}),\\
 (\text{div}\boldsymbol{\sigma},\boldsymbol{v})_{\Omega} = (-\boldsymbol{f},\boldsymbol{v})_{\Omega},&\text{for all }\boldsymbol{v}\in(L^2(\Omega))^d.
+\end{cases}
 \end{aligned} 
 $$
 
