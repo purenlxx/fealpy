@@ -37,7 +37,7 @@ except ImportError:
        ```
     """)
 
-from ..decorator import timer
+from fealpy.decorator import timer
 
 class IterationCounter(object):
     def __init__(self, disp=True):
